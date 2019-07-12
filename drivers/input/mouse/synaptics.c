@@ -181,6 +181,7 @@ static const char * const smbus_pnp_ids[] = {
 	"LEN200f", /* T450s */
 	"SYN3052", /* HP EliteBook 840 G4 */
 	"SYN3221", /* HP 15-ay000 */
+	"SYN323d", /* HP Spectre X360 13-w013dx */
 	NULL
 };
 
